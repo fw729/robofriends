@@ -1,7 +1,7 @@
 export const robots = [
   {
     id: 1,
-    name: 'Leanne Graham',
+    name: 'Yukio Yon',
     username: 'Bret',
     email: 'Sincere@april.biz'
   },
